@@ -6,7 +6,7 @@ body {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
     line-height: 8px;
     text-align: justify;
     -webkit-background-size: cover;
@@ -19,4 +19,5 @@ p {
     -webkit-text-fill-color: transparent;
 
 }
+
 
